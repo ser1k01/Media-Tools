@@ -1,0 +1,5 @@
+PyQt6==6.7.1
+Pillow==10.4.0
+opencv-python==4.10.0.84
+numpy==1.26.4
+yt-dlp
